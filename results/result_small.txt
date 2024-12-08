@@ -1,0 +1,44 @@
+Using merge sort...
+Timestamp
+ooc.txt 114 2023-01-14T16:12:31
+zn.txt 116 2023-02-23T02:15:53
+f.txt 107 2023-03-01T23:09:03
+czex.txt 105 2023-03-07T08:08:38
+kserh.txt 106 2023-04-20T14:21:07
+yzlm.txt 113 2023-05-08T08:24:23
+haprz.txt 108 2023-06-04T03:45:48
+r.txt 103 2023-06-12T03:16:10
+ticsch.txt 109 2023-06-20T07:02:45
+fyejq.txt 102 2023-07-08T09:33:19
+k.txt 104 2023-07-19T08:50:41
+n.txt 101 2023-07-25T09:34:16
+nvkab.txt 111 2023-10-02T09:39:14
+oggt.txt 110 2023-11-20T20:42:43
+u.txt 115 2023-11-20T21:13:06
+dbi.txt 112 2023-11-22T00:24:41
+Total Runtime (seconds): 0
+Max Memory Usage (KB): 1664
+	Command being timed: "./lazy_sort.out"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 88%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 83
+	Voluntary context switches: 2
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+----------------------------------------
